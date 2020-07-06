@@ -1,1 +1,1 @@
-# fractal_generator
+# Fractal Generator
